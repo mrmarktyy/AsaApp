@@ -1,0 +1,50 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  background: #fefefe;
+}
+
+.container {
+  width: 1000px;
+}
+
+.body {
+  margin: 0 0 155px 0;
+}
+
+.tab-pane {
+  padding: 1rem;
+}
+
+.form--stocks {
+  width: 200px;
+}
+
+footer {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 155px;
+  width: 100%;
+}
+
+footer {
+  text-align: center;
+  padding: 30px;
+  background: #292c2f;
+}
+footer .author {
+  color: white;
+  padding: 20px;
+  font-size: 24px;
+  margin: 0;
+}
+footer .company-name {
+  color: #8f9296;
+  font-size: 14px;
+  margin: 0;
+}
